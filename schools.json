@@ -946,5 +946,12 @@
     "cmsSys":"zfsoft",
     "libURL":"http://202.195.136.14:8080/",
     "libSys":"njhuiwen"
+  },
+  {
+    "name":"广东金融学院",
+    "cmsURL":"http://jwxt.gduf.edu.cn/jsxsd/",
+    "cmsSys":"qzdatasoft",
+    "libURL":"http://218.192.12.92/",
+    "libSys":"njhuiwen"
   }
 ]
